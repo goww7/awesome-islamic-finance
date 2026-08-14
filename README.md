@@ -37,6 +37,7 @@ A curated list of quality resources for Islamic finance: Shariah-compliant inves
 - [Finispia](https://finispia.com/) - Shariah screening and halal portfolio tools for retail investors.
 - [Hyssa](https://hyssa.com/) - Halal investment app combining screening, alerts and purification tools.
 - [Sarwa](https://www.sarwa.co/) - MENA robo-advisor and trading platform offering halal portfolio options.
+- [SharifBot](https://sharifbot.com) — Automated Shariah-compliant crypto trading bot with spot-only execution and coin screening.`.
 - [Tabadulat](https://tabadulat.com/) - Shariah-compliant brokerage platform with a built-in halal screener.
 - [Wahed](https://www.wahed.com/) - Global halal robo-advisor and investment platform, regulated in multiple jurisdictions.
 
