@@ -82,6 +82,7 @@ A curated list of quality resources for Islamic finance: Shariah-compliant inves
 - [halal-discord-bot](https://github.com/goww7/halal-discord-bot) * - Discord bot serving halal stock verdicts in servers.
 - [halal-portfolio-tracker](https://github.com/goww7/halal-portfolio-tracker) * - Open source portfolio tracker with compliance status.
 - [tradingview-syariah-indicator](https://github.com/AzrizHaziq/tradingview-syariah-indicator) - Browser extension overlaying Shariah status on TradingView charts.
+- [keel](https://github.com/CodeGateSoftware/keel) - Open-source Shariah-compliance engine for spot crypto trading: attested fail-closed screening, AAOIFI §65.4 qabd enforcement and purification accounting, self-hosted.
 
 ## Datasets
 
