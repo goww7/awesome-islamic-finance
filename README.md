@@ -65,6 +65,7 @@ A curated list of quality resources for Islamic finance: Shariah-compliant inves
 - [INCEIF University](https://www.inceif.edu.my/) - Malaysia's global university of Islamic finance.
 - [IsDB Institute](https://isdbinstitute.org/) - Research arm of the Islamic Development Bank, publications on Islamic economics and finance.
 - [Islamic Finance Guru](https://www.islamicfinanceguru.com/) - Practical halal money content: investing, pensions, mortgages and startup investing.
+- [Islamic Inheritance Calculator](https://islamic-inheritancecalculator.com/) - Free Faraid inheritance calculator with Hanafi, Ahl-e-Hadith and Shia modes, plus 20 illustrated guides on Islamic inheritance rules.
 - [Practical Islamic Finance](https://practicalislamicfinance.com/) - Independent halal investing research and portfolio commentary.
 
 ## Academic Library Guides
