@@ -47,6 +47,7 @@ A curated list of quality resources for Islamic finance: Shariah-compliant inves
 
 ## Zakat & Purification
 
+- [zakat-mal](https://github.com/codesbykhairannoor/zakat-mal) - Zero-dependency, mathematically rigorous, and Fiqh-verified Zakat calculation engine in TypeScript (AAOIFI Standard 35 & Fatwa MUI/BAZNAS).
 - [Islamic Relief Zakat Calculator](https://islamic-relief.org/zakat-calculator/) - Zakat calculator from one of the largest Muslim charities.
 - [LaunchGood](https://www.launchgood.com/) - Muslim crowdfunding platform widely used for zakat and sadaqah distribution.
 - [National Zakat Foundation](https://nzf.org.uk/) - UK institution collecting and distributing zakat locally, with calculation guidance.
