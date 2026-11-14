@@ -51,6 +51,7 @@ A curated list of quality resources for Islamic finance: Shariah-compliant inves
 - [LaunchGood](https://www.launchgood.com/) - Muslim crowdfunding platform widely used for zakat and sadaqah distribution.
 - [National Zakat Foundation](https://nzf.org.uk/) - UK institution collecting and distributing zakat locally, with calculation guidance.
 - [Zakat Foundation of America](https://www.zakat.org/) - Zakat education and distribution, with practical guides on zakat for stocks and retirement accounts.
+- [Zakifi](https://zakifi.com) - Free zakat calculator, family budget and Kids Space for Muslim families. English, Arabic and Urdu, no ads, no subscription, privacy-first.
 
 ## Sukuk & Fixed Income
 
